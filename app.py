@@ -4,7 +4,7 @@ import re
 import io
 
 st.set_page_config(page_title="リフレクション変換ツール", layout="centered")
-st.title("📘 リフレクションA形式 変換ツール")
+st.title("週リフレクション 変換ツール")
 
 uploaded_file = st.file_uploader("Excelファイル（元データ）をアップロードしてください", type="xlsx")
 
